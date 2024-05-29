@@ -1,0 +1,14 @@
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/bin/Debug/net7.0/CSharpBasics
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/bin/Debug/net7.0/CSharpBasics.deps.json
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/bin/Debug/net7.0/CSharpBasics.runtimeconfig.json
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/bin/Debug/net7.0/CSharpBasics.dll
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/bin/Debug/net7.0/CSharpBasics.pdb
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/obj/Debug/net7.0/CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/obj/Debug/net7.0/CSharpBasics.AssemblyInfoInputs.cache
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/obj/Debug/net7.0/CSharpBasics.AssemblyInfo.cs
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/obj/Debug/net7.0/CSharpBasics.csproj.CoreCompileInputs.cache
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/obj/Debug/net7.0/CSharpBasics.dll
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/obj/Debug/net7.0/refint/CSharpBasics.dll
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/obj/Debug/net7.0/CSharpBasics.pdb
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/obj/Debug/net7.0/CSharpBasics.genruntimeconfig.cache
+/home/inksoft/Personal/learnings/dotnet/CSharpBasics/obj/Debug/net7.0/ref/CSharpBasics.dll
